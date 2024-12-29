@@ -1,0 +1,6 @@
+# 2023新11月版本支付系统更新异地免控支付接口-二开非同类型版本哈注意区分
+
+2023/10/30/新开发微信小程序收款码远程收款-免控收款<br>非同类免签支付，用得上免封控小程序收款码的是宝用不上的就可以买别家的便宜货本店独立开发了小程序商户监控纯成本价，提供产码后台上架，免认证费注册小程序等通道<br><br>整体优化<br>不一 一介绍，example.com/;账号16666666666密码16666666666<br>系统功能强大，可以多用户使用，注册以后上传自己二维码使用<br>1，example.com,开源纯净版,有疑问，请联系QQ：203833507<br>2，CcPay系统支持易支付接口<br>3，CcPay系统支持当面支付接口，设置当面支付当面支付，优先支付发起<br>4，CcPay系统修改优化app监听代码，废掉旧版本app，新版APP支持扫码或者手动配置<br>5，CcPay系统目前支持微信收款码，支付宝收款码。以及当面支付收款接口，除官方接口以外，微信支付宝需要24小时挂机监控回调<br>6，CcPay系统除了以上功能以外，我们同时做了源代码保留核心代码，有技术能力的可以在原基础上面再次进行开发<br>7，CcPay系统其他细节不一一介绍<br>8，我们再次感谢原创作者免费提供。大家学习使用<br>系统基于ThinkPhp example.com.24，深度开发，后台框架集成H-hui admin<br>支持手机监控 推荐使用云手机，APP监控更稳定<br>优化出码加载反应慢问题<br>优化系统响应速度<br>后期不提供升级服务，<br>不包含 APP监控源代码 监控软件已经封装好下载即可使用 ，APP包调试配置好给你<br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/D81ly" style="color: red;">https://mega-file.org/D81ly</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
